@@ -14,7 +14,7 @@ class gridImage:
         pygame.init()
         self.windowSurface = pygame.display.set_mode(((xMax * 125), yMax * 125), 0, 32)
         self.windowSurface.fill([0,0,0])
-        self.WHITE = (255, 255, 255)
+        self.WHITE = (255, 245, 255)
         self.RED = (255, 0 , 0)
         self.GREEN = (0,255,0)
         self.BLUE = (0,0,255)
