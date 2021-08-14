@@ -5,8 +5,6 @@ from Node import *
 from genEnv import *
 from gridImage import *
 
-from lib.genEnv import GenEnv
-
 
 def div (x,y):
     return x/y if y else 0
